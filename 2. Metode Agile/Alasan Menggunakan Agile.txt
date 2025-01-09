@@ -1,0 +1,6 @@
+Menggunakan Metode Agile, di mana dalam 
+pengembangan sistem informasi akan bersifat fleksibel dan mengedepankan individu dan 
+proses. Scrum Team yang terdiri dari Product Owner (PO), Developer dan Scrum Master (SM) 
+menjadi aktor dalam berjalannya metode Scrum.
+
+Jurnal ini relevan dengan pengembangan sistem informasi berbasis metode Agile Framework Scrum yang mendukung efisiensi waktu dan adaptabilitas proses pengembangan sistem. Implementasi ini dapat menjadi solusi praktis untuk meningkatkan manajemen aset dengan digitalisasi dan metodologi pengembangan yang terstruktur, seperti yang diterapkan pada Universitas Diponegoro. Pendekatan yang diuraikan juga terbukti menghasilkan kepuasan pengguna, sebagaimana dibuktikan melalui pengujian penerimaan pengguna (User Acceptance Test).
